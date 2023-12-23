@@ -1,5 +1,5 @@
-JRDPCN Team OFFICIAL
+JRDP Team OFFICIAL
 -  OS's and Software Development
--  Hacking software
+-  Ethical Hacking software
 -  Malware development
 -  Message to me on discord: JRDPCN#2379
