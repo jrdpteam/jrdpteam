@@ -2,4 +2,7 @@ JRDP Team OFFICIAL
 -  OS's and Software Development
 -  Ethical Hacking software
 -  Malware development
--  Message to me on discord: jrdp_team
+  CONTACT:
+discord: satan.exe0723
+telegram: https://t.me/jrdpteam_official
+protonmail: jrdpteam@proton.me
