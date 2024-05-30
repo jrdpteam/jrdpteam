@@ -1,15 +1,21 @@
 JRDP Team OFFICIAL
 
-    OS's and Software Development
+    - OS's and Software Development
     
-    Ethical Hacking tools/software
+    - Ethical Hacking tools/software
     
-    Malware development
+    - Malware development
 
 CONTACT:
 
-discord: satan.exe0723
+discord:
 
-telegram: https://t.me/jrdpteam_official
+    - satan.exe0723
 
-ProtonMail: jrdpteam@proton.me
+telegram:
+
+    - https://t.me/jrdpteam_official
+
+ProtonMail:
+
+    - jrdpteam@proton.me
