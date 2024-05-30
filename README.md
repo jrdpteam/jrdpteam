@@ -1,4 +1,5 @@
-JRDP Team OFFICIAL
+## JRDP Team OFFICIAL
+
 
    - OS's and Software Development
     
@@ -6,9 +7,11 @@ JRDP Team OFFICIAL
     
    - Malware development
 
-CONTACT:
 
-discord:
+## CONTACT:
+
+
+Discord:
 
    - satan.exe0723
 
