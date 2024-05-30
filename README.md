@@ -10,12 +10,12 @@ CONTACT:
 
 discord:
 
-    - satan.exe0723
+   - satan.exe0723
 
 telegram:
 
-    - https://t.me/jrdpteam_official
+   - https://t.me/jrdpteam_official
 
 ProtonMail:
 
-    - jrdpteam@proton.me
+   - jrdpteam@proton.me
