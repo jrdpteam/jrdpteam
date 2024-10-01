@@ -5,8 +5,4 @@ JRDP Team OFFICIAL
   
   CONTACT:
 
-discord: satan.exe0723
-
-telegram: https://t.me/jrdpteam_official
-
-ProtonMail: jrdpteam@proton.me
+   https://jrdpteam.netlify.app/
