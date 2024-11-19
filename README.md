@@ -1,7 +1,7 @@
 JRDP Team OFFICIAL
 -  OS's and Software Development
--  Hacking tools/software
--  Malware development
+-  Ethical hacking tools/software
+-  Malware development (educational purposes)
   
   CONTACT:
 
