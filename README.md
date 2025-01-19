@@ -1,5 +1,5 @@
 JRDP Team OFFICIAL
--  OS's and Software Development
+-  OS and Software Development
 -  Ethical hacking tools/software
 -  Malware development (educational purposes)
   
